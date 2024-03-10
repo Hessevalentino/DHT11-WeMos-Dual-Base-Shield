@@ -2,6 +2,9 @@
 # DHT11-WeMos-Dual-Base-Shield
 WEMOS D1 mini plus DHT11 WeMos Dual Base Shield
 
+
+##the project is under development
+
 Properties:
 Dual base for all Wemos D1 Mini modules and shields
 Duplicates inputs, outputs and power supply
