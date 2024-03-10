@@ -3,7 +3,7 @@
 WEMOS D1 mini plus DHT11 WeMos Dual Base Shield
 
 
-##the project is under development
+## the project is under development
 
 Properties:
 Dual base for all Wemos D1 Mini modules and shields
